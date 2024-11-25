@@ -5,8 +5,8 @@ import asyncio
 app = Quart(__name__)
 
 # Замените на свои значения API ID и API Hash
-api_id = '21002229'
-api_hash = 'ef86b3d8721805538b11a9ce26626c91'
+api_id = '**********'
+api_hash = '********************************'
 
 # Сохраняем состояние между запросами
 app.config['PHONE'] = None
