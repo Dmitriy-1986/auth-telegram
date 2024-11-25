@@ -1,8 +1,8 @@
 from telethon import TelegramClient
 
 # Замените на свой API ID и API Hash, полученные при регистрации приложения
-api_id = '21002229'
-api_hash = 'ef86b3d8721805538b11a9ce26626c91'
+api_id = '*********'
+api_hash = '***************************'
 
 # Имя сессии (файл сессии должен быть в текущей директории)
 session_name = 'telegram_auth'
